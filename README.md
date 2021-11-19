@@ -11,7 +11,7 @@ Sometimes I work on discord bot for my Discord server
 
 ## 📩 Contact me:
 
-- Email: admin@artizek.net
+- Email: artizek.dev@gmail.com
 - Discord: Artizek#0001
 - Website: http://artizek.net
 - Discord Server: https://discord.gg/WTy53rDQge
