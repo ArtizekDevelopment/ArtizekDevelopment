@@ -3,7 +3,7 @@
 I like programming, learning, trying new things.<br>
 Currently I program for personal orders, if you have any questions, contact me.
 
-## 🛠 I'm Java Developer
+## 🛠 Java Developer
 
 I program in **Java - SpigotAPI, BungeeAPI, Spring Boot.** Learning **C# and JavaScript.**<br>
 Currently working on the ISkyBlock minecraft plugin (December release).<br>
